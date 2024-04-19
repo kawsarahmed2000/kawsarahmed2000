@@ -1,14 +1,11 @@
 ### Hi there 👋
 
-<!--
-**kawsarahmed2000/kawsarahmed2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <h4 align="center">
   <a href="https://www.instagram.com/kawsar_t_2000"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+I'm+Kawsar+Ahmed.;I+am+an+Android+Developer.;I+love+Coding.;&center=true&width=500&height=50"></a>
 </ph4>
 
 <div align="center">
-
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30"
         alt="javascript logo" />
     <img width="12" />
