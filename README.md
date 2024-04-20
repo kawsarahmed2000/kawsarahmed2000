@@ -1,7 +1,7 @@
 
 
 <h4 align="center">
-  <a href="https://www.instagram.com/kawsar_t_2000"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+I'm+Kawsar+Ahmed.;An+Android+Developer.;Who+love+Coding.;&center=true&width=500&height=50"></a>
+  <a href="https://www.instagram.com/kawsar_t_2000"><img src="https://readme-typing-svg.herokuapp.com?lines=Hi!+👋+I'm+Kawsar+Ahmed.;An+Android+Developer.;Expertise+in+Kotlin+and+MVVM+architecture.;&center=true&width=500&height=50"></a>
 </h4>
 
 <div align="center">
